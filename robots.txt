@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aktant.com.tr/sitemap.xml
